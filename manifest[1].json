@@ -1,0 +1,9 @@
+{
+  "name": "UP Khabar — Uttar Pradesh News",
+  "short_name": "UP Khabar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#b91c1c",
+  "description": "उत्तर प्रदेश की ताज़ा खबरें"
+}
